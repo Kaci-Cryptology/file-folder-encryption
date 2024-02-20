@@ -1,4 +1,4 @@
-# File Encryption and Decryption
+# File / folder Encryption and Decryption
 
 ## Overview
 
