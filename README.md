@@ -2,7 +2,7 @@
 
 ## Overview
 
-This program allows you to encrypt and decrypt files and folders using a 256-bit encryption key. It can be used to secure important communications via email or any other means of communication.
+This program enables you to encrypt and decrypt files and folders using a 256-bit encryption key. It's designed to ensure secure data transfer, allowing for confidential communication via email or any other channel.
 
 ## Features
 
@@ -20,7 +20,7 @@ This program allows you to encrypt and decrypt files and folders using a 256-bit
 
 ## Security
 
-The program uses the AES-256 symmetric encryption algorithm, which is one of the most secure encryption algorithms in the world. The encryption key is essential for the security of your data. Make sure to keep it safe and never share it with anyone.
+The program utilizes the AES-256 symmetric encryption algorithm, ensuring robust security for your data. This symmetric encryption scheme means that the same key is used for both encryption and decryption, known only to the communicating parties (A and B). It's imperative to safeguard this key and avoid sharing it with anyone else.
 
 ## Notes
 
@@ -28,11 +28,11 @@ The program uses the AES-256 symmetric encryption algorithm, which is one of the
 
 ## License
 
-This program is made by Garrincha :D.
+This program is authored by Garrincha :D.
 
 ## Example of Use
 
-Here is an example of using the program to encrypt a file:
+Here's an example of using the program to encrypt a file:
 
 1. Launch the program.
 2. Click the "Choose a file" button.
@@ -44,9 +44,8 @@ The file will be encrypted, and a new file will be created with the ".enc" exten
 
 ## Troubleshooting
 
-If you encounter problems with the program, please refer to the "Troubleshooting" section of the README.md file.
+If you encounter any issues with the program, please consult the "Troubleshooting" section of the README.md file.
 
 ## Contact
 
-If you have any questions or suggestions, please contact the author of the program at the following address: amaouchekaci28@gmail.com
-
+For questions or suggestions, please reach out to the program's author at the following email address: amaouchekaci28@gmail.com
